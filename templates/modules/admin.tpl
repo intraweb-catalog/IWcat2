@@ -14,6 +14,7 @@
 	<link rel="stylesheet" type="text/css" href="{$stylepath}/style.css" media="projection,screen" />
 	<link rel="stylesheet" type="text/css" href="{$stylepath}/print.css" media="print" />
 	<link rel="stylesheet" type="text/css" href="{$stylepath}/color-{$color_theme}.css" />
+        <link rel="stylesheet" type="text/css" href="{getbaseurl}filetheme.php?fileName={$stylesheet}&amp;type=css&amp;theme=IWcat2" />
 </head>
 <body>
 	<div id="theme_page_container">

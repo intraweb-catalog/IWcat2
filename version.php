@@ -1,9 +1,9 @@
 <?php
 $themeversion['name'] = 'IWcat2';
 $themeversion['displayname'] = __('Catàleg de formació - 2');
-$themeversion['description'] = __('Adaptació del theme IWxtec2 per al catàleg de formació');
+$themeversion['description'] = __('Theme estil xtec2 per a Sirius');
 $themeversion['regid'] = '0';
-$themeversion['version'] = '2.0';
+$themeversion['version'] = '2.1';
 $themeversion['official'] = '0';
 $themeversion['author'] = 'Joan Guillén';
 $themeversion['contact'] = 'enfocat@gmail.com';

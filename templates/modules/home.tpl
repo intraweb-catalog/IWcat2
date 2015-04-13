@@ -15,6 +15,7 @@
 	<link rel="stylesheet" type="text/css" href="{$stylepath}/print.css" media="print" />
 	<link rel="stylesheet" type="text/css" href="{$stylepath}/color-{$color_theme}.css" />
 	<link rel="alternate" title="{pagegetvar name='title'}" href="index.php?theme=rss" type="application/rss+xml" />
+        <link rel="stylesheet" type="text/css" href="{getbaseurl}filetheme.php?fileName={$stylesheet}&amp;type=css&amp;theme=IWcat2" />
 </head>
 
 <body>
